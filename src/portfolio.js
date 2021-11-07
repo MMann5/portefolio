@@ -88,28 +88,22 @@ const projects = [
     sourceCode: 'https://github.com/MMann5/trellops',
     livePreview: 'http://trellops.herokuapp.com/#/',
   },
-  {
-    name: 'Trellops',
-    description:
-      'Trello clone, Project End to End',
-    stack: ['ReactJs', 'Redux', 'Javascript', 'NodeJs', 'Express', 'MongoDB', 'React-Beautiful-DND', 'WebSockets'],
-    sourceCode: 'https://github.com/MMann5/trellops',
-    livePreview: 'http://trellops.herokuapp.com/#/',
-  },
 ]
 
 const skills = [
   'HTML',
   'CSS',
+  'SASS',
   'JavaScript',
   'ReactJs',
   'React Native',
   'Redux',
-  'SASS',
   'Material UI',
   'Git',
   'NodeJs',
+  'API',
   'MongoDB',
+  'Mongoose',
 ]
 
 const contact = {
