@@ -57,14 +57,6 @@ const projects = [
     livePreview: 'https://mmann5.github.io/meme-generator/',
   },
   {
-    name: 'Ballboard',
-    description:
-      'Clone of Pacman with monster and balls',
-    stack: ['HTML', 'CSS', 'Javascript'],
-    sourceCode: 'https://github.com/MMann5/ballboard',
-    livePreview: 'https://mmann5.github.io/ballboard/',
-  },
-  {
     name: 'Appsus',
     description:
       'Single Page Application of 3 applications : Mails, Notes and Bookstore',
