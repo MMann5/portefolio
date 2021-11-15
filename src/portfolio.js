@@ -7,7 +7,7 @@ const about = {
   name: 'Michael Mann',
   role: 'Full Stack/Frontend Web Developer',
   description:
-    'With experience in writring single-page application using the latest WEB technonologies, including ReactJs, Redux, NodeJs and MongoDB. Graduate of the Coding Academy - an intensive coding bootcamp (640 hours)that qualifies Full Stack developers.',
+    'With experience in writing single-page application using the latest WEB technologies, including ReactJs, Redux, NodeJs and MongoDB. Graduate of the Coding Academy - an intensive coding bootcamp (640 hours)that qualifies Full Stack developers.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com/in/michael-mann-339545149 ',
