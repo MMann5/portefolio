@@ -23,7 +23,6 @@ const projects = [
     stack: ['HTML', 'CSS', 'Javascript'],
     sourceCode: 'https://github.com/MMann5/pixel-perfect',
     livePreview: 'https://mmann5.github.io/pixel-perfect/',
-    image: 'appsus'
   },
   {
     name: 'Touch The Num',
@@ -32,7 +31,6 @@ const projects = [
     stack: ['HTML', 'CSS', 'Javascript'],
     sourceCode: 'https://github.com/MMann5/touchthenum',
     livePreview: 'https://mmann5.github.io/touchthenum/',
-    image: 'touchthenum',
   },
   {
     name: 'Pacman',
@@ -41,7 +39,6 @@ const projects = [
     stack: ['HTML', 'CSS', 'Javascript'],
     sourceCode: 'https://github.com/MMann5/pacman',
     livePreview: 'https://mmann5.github.io/pacman/',
-    image: 'pacman'
   },
   {
     name: 'Ballboard',
@@ -50,7 +47,6 @@ const projects = [
     stack: ['HTML', 'CSS', 'Javascript'],
     sourceCode: 'https://github.com/MMann5/ballboard',
     livePreview: 'https://mmann5.github.io/ballboard/',
-    image: 'ballboard'
   },
   {
     name: 'Meme Generator',
@@ -59,7 +55,6 @@ const projects = [
     stack: ['HTML', 'CSS', 'Javascript'],
     sourceCode: 'https://github.com/MMann5/meme-generator',
     livePreview: 'https://mmann5.github.io/meme-generator/',
-    image: 'meme'
   },
   {
     name: 'Appsus',
@@ -68,16 +63,14 @@ const projects = [
     stack: ['ReactJs', 'CSS', 'Javascript', 'API'],
     sourceCode: 'https://github.com/MMann5/Appsus',
     livePreview: 'https://mmann5.github.io/Appsus/',
-    image: 'appsus'
   },
   {
-    name: 'Weather App',
+    name: 'Weather App Native',
     description:
       'First application with React Native',
     stack: ['ReactNative', 'Style Component', 'Javascript', 'API', 'Expo'],
     sourceCode: 'https://github.com/MMann5/meteo-app',
     livePreview: 'https://github.com/MMann5/meteo-app',
-    image: 'weather'
   },
   {
     name: 'Trellops',
@@ -86,7 +79,14 @@ const projects = [
     stack: ['ReactJs', 'Redux', 'Javascript', 'NodeJs', 'Express', 'MongoDB', 'React-Beautiful-DND', 'WebSockets'],
     sourceCode: 'https://github.com/MMann5/trellops',
     livePreview: 'http://trellops.herokuapp.com/#/',
-    image: 'trellops'
+  },
+  {
+    name: 'Weather App ReactJs',
+    description:
+      'Weather app with Metaweather API : Works with "Cors chrome extension"',
+    stack: ['ReactJs', 'LocalStorage', 'Javascript', 'Styled Component', 'SCSS', 'API'],
+    sourceCode: 'https://github.com/MMann5/michaelmann-Balink',
+    livePreview: 'https://michaelmann-balink.herokuapp.com/',
   },
 ]
 
@@ -94,6 +94,7 @@ const skills = [
   'HTML',
   'CSS',
   'SASS',
+  'Styled Component',
   'JavaScript',
   'ReactJs',
   'React Native',
